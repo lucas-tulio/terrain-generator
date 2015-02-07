@@ -23,9 +23,6 @@ int deepWaterColor = color(30, 50, 190);
 
 void setup() {
   size(800, 800);
-}
-
-void draw() {
   
   loadPixels();
 
